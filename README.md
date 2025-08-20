@@ -60,11 +60,6 @@ Perfect for:
 
 ## 📦 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
-
 # Install server dependencies
 cd server
 npm install
